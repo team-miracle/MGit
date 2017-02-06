@@ -21,19 +21,9 @@
 <resources>
 
     <style name="Theme.Sgit" parent="@android:style/Theme.Holo.Light.DarkActionBar">
-        <item name="android:actionBarItemBackground">@drawable/selectable_background_sgit</item>
-        <item name="android:popupMenuStyle">@style/PopupMenu.Sgit</item>
-        <item name="android:dropDownListViewStyle">@style/DropDownListView.Sgit</item>
-        <item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Sgit</item>
-        <item name="android:actionDropDownStyle">@style/DropDownNav.Sgit</item>
-        <item name="android:actionBarStyle">@style/ActionBar.Solid.Sgit</item>
         <item name="android:actionModeBackground">@drawable/cab_background_top_sgit</item>
         <item name="android:actionModeSplitBackground">@drawable/cab_background_bottom_sgit</item>
-        <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Sgit</item>
-        <item name="android:actionMenuTextColor">@android:color/black</item>
         <item name="android:textColor">@android:color/black</item>
-        <item name="android:actionBarWidgetTheme">@style/Theme.Sgit.Widget</item>
-        <item name="drawable/bt_branch_name_bg">@drawable/bt_branch_name_bg</item>
         <item name="drawable/pager_title_strip_background">@color/branch_name_bg</item>
         <item name="drawable/drawer_text_color">#333</item>
         <item name="drawable/drawer_background">#eee</item>
