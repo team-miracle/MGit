@@ -31,6 +31,9 @@
         <item name="drawable/ic_folder_fl">@drawable/ic_folder_w</item>
         <item name="drawable/ic_branch_l">@drawable/ic_branch_w</item>
         <item name="drawable/ic_tag_l">@drawable/ic_tag_w</item>
+        <item name="android:textColorPrimary">?android:attr/textColorPrimary</item>
+        <item name="android:textColorSecondary">@android:color/secondary_text_dark</item>
+        <item name="android:colorBackground">?android:attr/colorBackground</item>
     </style>
 
 </resources>
