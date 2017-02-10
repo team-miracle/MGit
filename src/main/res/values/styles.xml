@@ -11,6 +11,7 @@
     <!-- Application theme. -->
     <style name="AppTheme" parent="Theme.Sgit">
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:textColorPrimary">@color/branch_name_bg</item>
     </style>
 
     <!-- Application theme. -->

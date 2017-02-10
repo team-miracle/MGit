@@ -45,6 +45,11 @@
         <!-- this strangely fixes the "flash" of the default light theme on app startup when the
           dark theme is selected, from: http://stackoverflow.com/a/29202453/85472 -->
         <item name="android:windowDisablePreview">true</item>
+        <item name="android:colorPrimary">@color/primary_material_dark</item>
+        <item name="android:colorPrimaryDark">@color/primary_dark_material_dark</item>
+        <item name="android:colorAccent">@color/accent_material_light</item>
+        <item name="android:textColorPrimary">@color/primary_text_material_light</item>
+        <item name="android:textColorSecondary">@color/secondary_text_material_light</item>
     </style>
 
     <style name="ActionBar.Solid.Sgit" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
